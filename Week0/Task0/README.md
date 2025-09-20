@@ -68,7 +68,7 @@ sudo apt-get update
 sudo apt-get install iverilog
 ```
 
-![Icarus Verilog Status](Images/iverilog_status.png)
+![Icarus Verilog Status](Images/iverilog.jpg)
 
 ### GTKWave Waveform Viewer
 
@@ -82,7 +82,7 @@ sudo apt-get update
 sudo apt install gtkwave
 ```
 
-![GTKWave Installation Complete](Images/gtkwave_installation_done.jpeg)
+![GTKWave Installation Complete](Images/gtkwave.jpg)
 
 ## Installation Verification
 
