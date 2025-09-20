@@ -18,22 +18,6 @@ Before beginning the installation process, ensure your system meets the followin
 
 If you're running Ubuntu in a virtual machine, you may need to optimize the display settings for better usability:
 
-### Screen Resolution Configuration
-
-```bash
-# Update package repositories
-sudo apt update
-
-# Install essential build tools and kernel headers
-sudo apt install build-essential dkms linux-headers-$(uname -r)
-
-# Navigate to VirtualBox Guest Additions directory
-cd /media/spatha/VBox_GAs_7.1.8/
-
-# Execute the auto-configuration script
-./autorun.sh
-```
-
 ## Essential Development Tools
 
 ### Yosys Synthesis Suite
